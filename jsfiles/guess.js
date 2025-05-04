@@ -18,7 +18,7 @@ let words = [
   "Delete",
   "Fabric",
   "Eagles",
-  "Rabbet",
+  "Rabbit",
 ];
 // get random word in each iteration
 wordGuess = words[Math.floor(Math.random() * words.length)].toLowerCase();
